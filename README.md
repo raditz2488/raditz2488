@@ -1,5 +1,5 @@
 ### Hi there 👋
-iOS App and framework developer with holistic knowledge of software development and design. Currently venturing into ML & AI and Data science.
+I am an iOS App and framework developer. Currently venturing into ML & AI and Data science.
 <!--
 **raditz2488/raditz2488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
