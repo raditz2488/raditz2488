@@ -2,7 +2,7 @@
 I am an iOS App and framework developer. Currently venturing into ML & AI and Data science.
 
 ### Flask demo apps:
-1. [A simple flask application to approximate miles per galon of a car given its features. The focus is to demonstrate basics of creating a flask app for machine learning applications.](https://github.com/raditz2488/Flask-hosting-MilesPerGallonApproximation.git)
+1. [A simple flask application, hosting a neural network model to predict miles per gallon given the features of the car.](https://github.com/raditz2488/Flask-hosting-MilesPerGallonApproximation.git)
 <!--
 **raditz2488/raditz2488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
