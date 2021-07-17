@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am an iOS App and framework developer. Currently venturing into ML & AI and Data science.
 
-### Flask demo apps:
+### Flask ML & AI demo apps:
 1. [A simple flask application, hosting a neural network model to predict miles per gallon given the features of the car. An API is provided as an endpoint to pass the attributes of a car.](https://github.com/raditz2488/Flask-hosting-MilesPerGallonApproximation.git)
 2. [A flask application, hosting the MobileNet model to recognize images. This application provides a web interface to upload an image for recognition.](https://github.com/raditz2488/Flask-ImageRecognition.git)
 <!--
