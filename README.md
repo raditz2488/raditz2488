@@ -4,6 +4,9 @@ I am an iOS App and framework developer. Currently venturing into ML & AI and Da
 ### ML & AI demos with TDD:
 - [A simple KNN model is built using KDTree to demonstrate house appraisals.](https://github.com/raditz2488/knn-houseappraisal.git)
 
+## EDA:
+- [An assignment to analyse global investment options for an AMC.](https://github.com/raditz2488/EDA-InvestmentAssignment.git)
+
 ### Reinforcement Learning assignments:
 - [A Deep RL agent to maximise profit for a Cab driver with a simplistic environment](https://github.com/raditz2488/RL-CabDriver.git)
 - [An assignment to demonstrate Reinforced Learnong of an Numerical TicTacToe agent.](https://github.com/raditz2488/RL-TicTacToeAgent.git)
