@@ -4,6 +4,9 @@ I am an iOS App and framework developer. Currently venturing into ML & AI and Da
 ### ML & AI demos with TDD:
 1. [A simple KNN model is built using KDTree to demonstrate house appraisals.](https://github.com/raditz2488/knn-houseappraisal.git)
 
+### Assignments:
+1. [A Deep RL agent to maximise profit for a Cab driver with a simplistic environment](https://github.com/raditz2488/RL-CabDriver.git)
+
 ### Flask demo apps:
 1. [A simple flask application, hosting a neural network model to predict miles per gallon given the features of the car. An API is provided as an endpoint to pass the attributes of a car.](https://github.com/raditz2488/Flask-hosting-MilesPerGallonApproximation.git)
 2. [A flask application, hosting the MobileNet model to recognize images. This application provides a web interface to upload an image for recognition.](https://github.com/raditz2488/Flask-ImageRecognition.git)
