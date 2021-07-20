@@ -5,8 +5,8 @@ I am an iOS App and framework developer. Currently venturing into ML & AI and Da
 1. [A simple KNN model is built using KDTree to demonstrate house appraisals.](https://github.com/raditz2488/knn-houseappraisal.git)
 
 ### Assignments:
-1. [A Deep RL agent to maximise profit for a Cab driver with a simplistic environment](https://github.com/raditz2488/RL-CabDriver.git)
-2. [An assignment to demonstrate Reinforced Learnong of an Numerical TicTacToe agent.](https://github.com/raditz2488/RL-TicTacToeAgent.git)
+- [A Deep RL agent to maximise profit for a Cab driver with a simplistic environment](https://github.com/raditz2488/RL-CabDriver.git)
+- [An assignment to demonstrate Reinforced Learnong of an Numerical TicTacToe agent.](https://github.com/raditz2488/RL-TicTacToeAgent.git)
 
 ### Flask demo apps:
 1. [A simple flask application, hosting a neural network model to predict miles per gallon given the features of the car. An API is provided as an endpoint to pass the attributes of a car.](https://github.com/raditz2488/Flask-hosting-MilesPerGallonApproximation.git)
