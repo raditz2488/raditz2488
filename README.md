@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am an iOS App and framework developer. Currently venturing into ML & AI and Data science.
 
-### ML & AI demos:
+### ML & AI demos with TDD:
 1. [A simple KNN model is built using KDTree to demonstrate house appraisals.](https://github.com/raditz2488/knn-houseappraisal.git)
 
 ### Flask demo apps:
